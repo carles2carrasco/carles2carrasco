@@ -26,12 +26,6 @@ Soy ingeniero con experiencia en el desarrollo de sistemas autónomos, especiali
 
 ---
 
-## 📊 Estadísticas
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tu-usuario&show_icons=true&theme=radical)
-
----
-
 ## 🌍 Conéctate conmigo
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carles-carrasco-castro/)
