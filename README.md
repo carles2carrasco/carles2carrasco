@@ -14,7 +14,6 @@ Soy ingeniero con experiencia en el desarrollo de sistemas autónomos, especiali
 
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![ROS 2](https://img.shields.io/badge/ROS_2-22314E?style=flat-square&logo=ros&logoColor=white)
 ![PX4](https://img.shields.io/badge/PX4-1E90FF?style=flat-square&logo=px4&logoColor=white)
 ![MQTT](https://img.shields.io/badge/MQTT-660066?style=flat-square&logo=mqtt&logoColor=white)
 
@@ -22,8 +21,7 @@ Soy ingeniero con experiencia en el desarrollo de sistemas autónomos, especiali
 
 ## 🚀 Proyectos Destacados
 
-🔹 **[TFG - Dron de Seguimiento Autónomo](https://github.com/tu-repo-tfg)**: Desarrollo de un dron híbrido con control PID y visión por computadora.  
-🔹 **[Portfolio Personal](https://github.com/tu-repo-portfolio)**: Página web donde muestro mis proyectos y experiencias.  
+🔹 **[TFG - Dron de Seguimiento Autónomo](https://github.com/carles2carrasco/TFG_DEE_Carles)**: Desarrollo de un dron híbrido con control PID y visión por computadora.  
 🔹 **[Dron FPV DIY](https://github.com/tu-repo-dron-fpv)**: Construcción y configuración de un dron FPV desde cero.
 
 ---
@@ -36,4 +34,4 @@ Soy ingeniero con experiencia en el desarrollo de sistemas autónomos, especiali
 
 ## 🌍 Conéctate conmigo
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/tu-linkedin)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carles-carrasco-castro/)
