@@ -1,6 +1,6 @@
 # 👋 ¡Hola! Soy Carles Carrasco
 
-🚀 **Ingeniero de Sistemas Aeroespaciales** | 🛩️ Apasionado por los drones y la automatizción | 👨‍💻 Desarrollador en siempre en const
+🚀 **Ingeniero de Sistemas Aeroespaciales** | 🛩️ Apasionado por los drones y la automatizción | 👨‍💻 Desarrollador en siempre en constante aprendizaje
 
 ---
 
