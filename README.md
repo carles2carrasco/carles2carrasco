@@ -13,7 +13,7 @@ Soy ingeniero con experiencia en el desarrollo de sistemas autónomos, especiali
 ## 🚀 Proyectos Destacados
 
 🔹 **[TFG - Dron de Seguimiento Autónomo](https://github.com/carles2carrasco/TFG_DEE_Carles)**: Desarrollo de un dron híbrido con control PID y visión por computadora.  
-🔹 **[Dron FPV DIY](https://github.com/tu-repo-dron-fpv)**: Construcción y configuración de un dron FPV desde cero.  
+🔹 **[Dron FPV DIY](https://github.com/carles2carrasco/FPV-Drones)**: Construcción y configuración de un dron FPV desde cero.  
 🔹 **[Simulación de Planes de Vuelo (Informática 2)](https://github.com/carles2carrasco/INFO-2-UPC)**: Este proyecto simula la trayectoria de vuelos de aviones a partir de un archivo de entrada proporcionado por el usuario. La simulación verifica si existen interferencias entre los aviones basándose en sus coordenadas y velocidades. El proyecto está desarrollado en C# y cuenta con una interfaz gráfica que permite visualizar los resultados de la simulación paso a paso.
 
 ---
